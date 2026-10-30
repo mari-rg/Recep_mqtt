@@ -5,7 +5,7 @@ import time
 
 # Configuración de la página
 st.set_page_config(
-    page_title="Lector de Sensor MQTT",
+    page_title="Lector de Sensor MQTT - majo romo",
     page_icon="📡",
     layout="centered"
 )
